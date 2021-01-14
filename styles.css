@@ -1,0 +1,93 @@
+h1 {
+    font-family: Sans-serif;
+    font-size: 30px;
+    text-shadow: 2px 2px;
+}
+
+body {
+    font-family: Bold;
+    font-style: Oblique;
+
+}
+
+.Navigation {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    float: left;
+    width: 7%;
+}
+
+h2 {
+    font-size: 14px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+h4 {
+    font-size: 14px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.trailers {
+    height: 150px;
+    width: 200px;
+    display: flex;
+    justify-content:center;
+    padding:0px;
+    border:3px solid black;
+    margin:12px;
+}
+
+.trending {
+     height: 150px;
+    width:200px;
+    display:flex;
+    justify-content:flex-start;
+    padding:0px;
+    border: 3px black solid;
+}
+
+.breakingnews {
+    height: 153px;
+    width: 200px;
+    display: flex;
+    justify-content:center;
+    padding:1px;
+    margin:0px;
+    border: 3px solid black;
+}
+
+h5 {
+    font-size:14px;
+    padding:2px;
+    margin: 15px;
+}
+
+.trump {
+    height:150px;
+    width:210px;
+    border: 3px solid black;
+   
+}
+
+h6 {
+    font-size:14px;
+    font-family: bold;
+    margin: 15px;
+    
+}
+
+.cherry {
+    height:158px;
+    width:200px;
+    border: 3px solid black;
+}
+ 
